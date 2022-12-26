@@ -1,2 +1,20 @@
 
 /* Your CSS Code here. */
+
+/* Your CSS Code here. */
+
+
+.personal {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.personal .image {
+    width: 10%;
+}
+
+.personal img {
+    width: 90%;
+    height: 90%;
+    border-radius: 50%;
+}
